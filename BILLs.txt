@@ -1,0 +1,1012 @@
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  2		   350.00
+ 			Children	  0		    0.00
+ 			Total bill			   350.00
+ 			Discount(1%)			   - 3.50
+ 			Vat(13%)			   +45.04
+ 			___________________________________________
+ 			Sub Total			   391.54
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  +19.31
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   200.00
+ 			Children	  0		    0.00
+ 			Total bill			   200.00
+ 			Discount(1%)			  - 2.00
+ 			Vat(13%)			  +25.74
+ 			___________________________________________
+ 			Sub Total			   223.74
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  +19.31
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  +38.61
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  +38.61
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  +38.61
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  +38.61
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  +38.61
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			_________________ __________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   300.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   450.00
+ 			Children	  0		    0.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   300.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   300.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   300.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   300.00
+ 			Children	  1		   150.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   300.00
+ 			Children	  0		    0.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   300.00
+ 			Children	  0		    0.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   200.00
+ 			Total bill			   350.00
+ 			Discount(1%)			  - 3.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   391.54
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   300.00
+ 			Total bill			   450.00
+ 			Discount(1%)			  - 4.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   503.42
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   300.00
+ 			Children	  0		    0.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  2		   300.00
+ 			Children	  2		   300.00
+ 			Total bill			   600.00
+ 			Discount(1%)			  - 6.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   671.22
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  2		   360.00
+ 			Children	  3		   540.00
+ 			Total bill			   900.00
+ 			Discount(1%)			  - 9.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   1006.83
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   700.00
+ 			Children	  0		    0.00
+ 			Total bill			   700.00
+ 			Discount(1%)			  - 7.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   783.09
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  0		    0.00
+ 			Children	  1		   150.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   167.80
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   150.00
+ 			Total bill			   300.00
+ 			Discount(1%)			  - 3.00
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   335.61
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  1		   200.00
+ 			Total bill			   350.00
+ 			Discount(1%)			  - 3.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			   391.54
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			  Rs167.80
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  + f
+ 			___________________________________________
+ 			Sub Total			 Rs 167.80
+
+
+
+
+ 			     ********************************    
+ 		   ******************  FINAL BILL   *******************      
+
+ 			Adult/Child	Count		Total Price
+ 			Adults		  1		   150.00
+ 			Children	  0		    0.00
+ 			Total bill			   150.00
+ 			Discount(1%)			  - 1.50
+ 			Vat(13%)			  +19.31
+ 			___________________________________________
+ 			Sub Total			 Rs 167.80

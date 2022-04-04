@@ -1,0 +1,89 @@
+
+	CASH PAYMENT:Total amount:223.74
+	CASH PAYMENT:Total amount:0.00
+	CASH PAYMENT:Total amount:0.00
+	CASH PAYMENT:Total amount:0.00
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:167.80
+
+	ONLINE PAYMENT:
+		Name:
+		Bank:
+		Ac/No:123
+		Amount:123.00
+
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:335.61
+
+	ONLINE PAYMENT:
+		Name:ram
+		Bank:asd
+		Ac/No:6546
+		Amount:54684.00
+
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:1006.83
+	CASH PAYMENT:Total amount:1006.83
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+
+	ONLINE PAYMENT:
+		Name:ram
+		Bank:kbl
+		Ac/No:546
+		Amount:391.54
+
+	CASH PAYMENT:Total amount:335.61
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+	CASH PAYMENT:Total amount:167.80
+
+	ONLINE PAYMENT:
+		Name:ram
+		Bank:kbl
+		Ac/No:546
+		Amount:654.00
+
+	CASH PAYMENT:Total amount:839.02
+
+	ONLINE PAYMENT:
+		Name:shyam
+		Bank:kbl
+		Ac/No:4648645
+		Amount:335.61
+
+	CASH PAYMENT:Total amount:1789.92
+	CASH PAYMENT:Total amount:167.80
+
+	ONLINE PAYMENT:
+		Name:raaam
+		Bank:kbl
+		Ac/No:-2045802427
+		Amount:503.41
+
+
+	ONLINE PAYMENT:
+		Name:shyam
+		Bank:hagsd
+		Ac/No:6546
+		Amount:65468.00
+
+	CASH PAYMENT:Total amount:167.80
