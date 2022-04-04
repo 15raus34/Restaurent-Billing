@@ -1,2 +1,0 @@
-# Restaurent-Billing
-C-Programming
