@@ -309,7 +309,16 @@ void payment(){
 				scanf("%d",&online.ac_no);
 				fprintf(fop,"\n\t\tAc/No:%d",online.ac_no);
 				printf("\t\t\tEnter the Amount:");
+				insuff:
 				scanf("%f",&online.bal);
+				if(online.bal==subtotal){
+					goto continuepayment;
+				}
+				if(online.bal<subtotal){
+					printf("\n\t\t\tInsufficient Amount!!\n\t\t\tPlease Enter Correct Amount:");
+					goto insuff;
+				}
+				continuepayment:
 				fprintf(fop,"\n\t\tAmount:%.2f\n",online.bal);
 				printf("\n\t\t\tEnter PIN No:");
 				while((ch = _getch())!=13){
@@ -328,7 +337,7 @@ void payment(){
 	    			main();
 				}
 				else if(option2=='n'||option2=='N'){
-					printf("\n\tTHANK YOU!!");
+					printf("\n\t- - THANK YOU!! - -");
 					exit(0);
 				}
 				else{
@@ -362,7 +371,7 @@ void admincontrol(){
     here:
     printf("\n\tEnter Password:");
    	while((ch = _getch())!=13){
-   		pwd[i]=ch;
+   		pwd[i]=ch+1;
         i++;
         printf("*");
 	}
@@ -371,7 +380,7 @@ void admincontrol(){
     if((strcasecmp(pwd,realpwd))==0){
     	printf("\n\n\t\t- - WELCOME - -");
     	chere:
-    	printf("\n\n\t\t1.Bills Enquery\n\t\t2.Payment Details\n\t\t3.Exit");
+    	printf("\n\n\t\t1.Bills Enquery\n\t\t2.Payment Details\n\t\t3.Return to Main Menu\n\t\t3.Exit");
     	printf("\n\n\t\tEnter your option:");
     	bhere:
     	scanf("%d",&adminchoice);
@@ -386,6 +395,9 @@ void admincontrol(){
 				}
 				printf("\n");
 				c=fgetc(bill);
+				if(c==EOF){
+					printf("\n\t\tNOTHING TO SHOW HERE!!\n");
+				}
 				while(c!=EOF){
 					printf("%c",c);
 					c=fgetc(bill);
@@ -415,6 +427,9 @@ void admincontrol(){
 				}
 				printf("\n");
 				c=fgetc(fop);
+				if(c==EOF){
+					printf("\n\t\tNOTHING TO SHOW HERE!!\n");
+				}
 				while(c!=EOF){
 					printf("%c",c);
 					c=fgetc(fop);
@@ -434,8 +449,11 @@ void admincontrol(){
 					goto rhere;
 				}
 			}
-				
+			
 			case 3:
+				main();
+				
+			case 4:
 				printf("\n\t- - THANK YOU!! - -");
 				exit(0);
 				
